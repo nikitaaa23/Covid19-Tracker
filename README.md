@@ -13,4 +13,4 @@
 - [jQuery](https://jquery.com/) - JavaScript library
 - [Covid-19 API](https://api.covid19india.org/data.json) - API for Covid-19 stats in India
 
-## [Live Demo]()
+## [Live Demo](https://nikitaaa23.github.io/Covid19-Tracker/)
